@@ -40,12 +40,6 @@ Note: Since this is a static project, buttons and links are for visual represent
 
 ---
 
-## 📸 Interface Preview
-<div align="center">
-  <img src="images/uber_screenshot.png" width="800" alt="Uber Clone Preview">
-</div>
-
----
 
 ## 🚦 How to Run
 This is a static frontend project. No build process is required.
